@@ -1,5 +1,5 @@
 # Quick Start Guide to Large Language Models - Second Edition
-민혁 테스트 진행
+
 <p align="center">
   <a href="https://www.amazon.com/Quick-Start-Guide-Language-Models-dp-0135346568/dp/0135346568">Get your copy today</a> and please leave a rating/review to tell me what you thought! ⭐⭐⭐⭐⭐
 </p>
@@ -10,7 +10,7 @@
 
 
 Welcome to the GitHub repository for the **"Quick Start Guide to Large Language Models - Second Edition"**. This repository contains the code snippets and notebooks used in the book, demonstrating various applications and advanced techniques in working with Transformer models and large language models (LLMs). [View the code for the First Edition here](https://github.com/sinanuozdemir/quick-start-guide-to-llms/tree/1e)
-
+민혁 테스트 진행민혁 테스트 진행민혁 테스트 진행민혁 테스트 진행민혁 테스트 진행
 
 ## Repository Structure
 
